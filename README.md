@@ -7,6 +7,7 @@ RabbitMQ Server需要依赖Eralng语言，所以第一步要
 下载并安装安装 RabbitMQ Server 下载http://www.rabbitmq.com/download.html
 
 最后几步如下
+
 一，设置Eralng系统环境变量
 ERLANG_HOME=C:\Program Files\erl3.6.5
 
